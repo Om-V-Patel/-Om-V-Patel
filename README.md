@@ -4,7 +4,7 @@
 -  I’m currently learning **Spring Boot**, **Cloud Technologies**, and **Backend Development**  
 -  I’m looking to collaborate on **Java** and **Python** projects  
 -  Ask me about **Java**, **Spring Boot**, **Python**, **SQL**  
--  How to reach me: **omvpatel1822002**  
+-  How to reach me: **omvpatel1822002@gmail.com**  
 -  Know about my experiences on [LinkedIn](https://www.linkedin.com/in/om-v-patel-34b00b23a/)
 
 <h3 align="left">Connect with me:</h3>
